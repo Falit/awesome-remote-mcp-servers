@@ -114,6 +114,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Octagon | Market Intelligence | `https://mcp.octagonagents.com/mcp` | OAuth2.1 | [Octagon](https://octagonai.co) |
 | OneContext | RAG-as-a-Service | `https://rag-mcp-2.whatsmcp.workers.dev/sse` | OAuth2.1 | [OneContext](https://onecontext.ai) |
 | Otter.ai | Meeting Notes | `https://mcp.otter.ai/mcp` | OAuth2.1 | [Otter.ai](https://otter.ai) |
+| Pagerly | Incident Management | `https://api.pagerly.io/mcp` | OAuth2.1 | [Pagerly](https://www.pagerly.io) |
 | PayPal | Payments | `https://mcp.paypal.com/sse` | OAuth2.1 | [PayPal](https://paypal.com) |
 | Parallel Task MCP | Web Research | `https://task-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
 | Parallel Search MCP | Web Search | `https://search-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
@@ -137,6 +138,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Todoist | Productivity | `https://ai.todoist.net/mcp` | OAuth2.1 | [Doist](https://todoist.com) |
 | Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) |
 | TweetSave | Social Media | `https://mcp.tweetsave.org/sse` | Open | [TweetSave](https://tweetsave.org) |
+| Updately | Sales | `https://api.updately.ai/mcp` | OAuth2.1 | [Updately](https://updately.ai) |
 | xbird | Social Media | `https://xbirdapi.up.railway.app/mcp` | API Key | [xbird](https://github.com/checkra1neth/xbird-skill) |
 | Vercel | Software Development | `https://mcp.vercel.com/` | OAuth2.1 | [Vercel](https://vercel.com) |
 | VibeMarketing | Social Media | `https://vibemarketing.ninja/mcp` | OAuth2.1 | [VibeMarketing](https://vibemarketing.ninja) |
